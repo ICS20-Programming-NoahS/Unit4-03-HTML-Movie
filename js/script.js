@@ -42,7 +42,7 @@ function UserAge() {
 
   // Tells user to enter their age instead of leaving it blank
   else {
-    result = "Enter an age!";
+    result = "Enter a valid age!";
   }
   
   // Displays what movie they can watch back to the user
